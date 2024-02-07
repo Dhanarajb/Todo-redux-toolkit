@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### Set Up Redux Store:
+> Create a new directory named store in your project to hold Redux-related files.
+> Inside the store directory, create a file named store.js (or any other name you prefer).
+> Configure your Redux store using Redux Toolkit's configureStore function. Define reducers, middleware, and any other store configurations.
